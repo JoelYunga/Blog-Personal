@@ -56,8 +56,9 @@ Para visualizar los resultados en la web se debe seguir los siguientes pasos:
 Abra su navegador digite en la seccion de url: localhost:3000
 ```
 Si quiere ver en la web subida a una app seguir al siguiente enlace
-```
+
 _https://blogpersonal-jyunga.herokuapp.com/_
+
 
 ## Construido con 🛠️
 
